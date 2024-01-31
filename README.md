@@ -7,9 +7,9 @@ make
 ./cpp_star
 
 # Star's life time calculation
-NOTE: This is just a rough model. Calculation is certainly not significant \n
-The calculation I have made is based on a Star's solar mass compared to the sun. \n
-The more mass a star has, the lower its life expectancy. \n
+/NOTE: This is just a rough model. Calculation is certainly not significant
+The calculation I have made is based on a Star's solar mass compared to the sun.
+The more mass a star has, the lower its life expectancy. 
 
 # Main Menu Options
 1: Add a new Record into the database.
