@@ -1,0 +1,14 @@
+Sun
+Yellow$
+1
+10
+
+Polaris
+Blue$
+1.39
+4.38998
+
+myStar
+Purple$
+2
+1.76777
