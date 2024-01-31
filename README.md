@@ -1,9 +1,10 @@
 # star_recorder_cpp
 Star life time calculator and, Star data recorder written in C++
 
-# To run the program
-compile with: make
-run with: ./cpp_star
+# Compile with make
+make
+# Run with
+./cpp_star
 
 # Star's life time calculation
 NOTE: This is just a rough model. Calculation is certainly not significant
